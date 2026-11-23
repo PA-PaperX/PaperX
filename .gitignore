@@ -10,3 +10,6 @@ dist/
 Thumbs.db
 image ai/
 *.log
+
+.vercel
+.env*
